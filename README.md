@@ -30,9 +30,9 @@ UrbanExplorer aims to connect urban explorers, city enthusiasts, and adventurers
 - **Read Post**: Read Contents, know the Author,time of creation
 - ![Post](./mern-blog-master/photos/post.png)
 - **Create Post**: Allow users to create and publish their own blog posts, complete with text, images, and other media.
-- ![Login](./mern-blog-master/photos/createpost.png)
+- ![Create Post](./mern-blog-master/photos/createPost.png)
 - **Edit Posts**: Enable users to edit their own posts to keep their content up to date or make improvements.
-- ![Login](./mern-blog-master/photos/editPost.png)
+- ![Edit](./mern-blog-master/photos/editPost.png)
 ## Technologies Used
 
 UrbanExplorer is built using a variety of technologies and tools, including:
