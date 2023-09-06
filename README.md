@@ -22,6 +22,8 @@ UrbanExplorer aims to connect urban explorers, city enthusiasts, and adventurers
 ## Features
 
 - **User Authentication**: Secure user registration and login functionality using JWT (JSON Web Tokens) to protect user data.
+- ![Login](mern-blog-master/photos/Screenshot 2023-09-06 124043.png)
+
 
 - **Home Page**: Display the latest blog posts from the UrbanExplorer community for users to explore and discover.
 
