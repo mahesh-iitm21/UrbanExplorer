@@ -1,4 +1,4 @@
-![image](https://github.com/mahesh-iitm21/UrbanExplorer/assets/110258299/a880d0b7-e122-442f-8b26-7a32c3e41e5e)# UrbanExplorer
+# UrbanExplorer
 Create, Read, Update and Delete Blogs Online
 
 # UrbanExplorer Project README
