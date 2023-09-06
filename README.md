@@ -22,15 +22,15 @@ UrbanExplorer aims to connect urban explorers, city enthusiasts, and adventurers
 ## Features
 
 - **User Authentication**: Secure user registration and login functionality using JWT (JSON Web Tokens) to protect user data.
-- ![Login](./mern-blog-master/photos/editPost.png)
-
+- ![Login](./mern-blog-master/photos/login.png)
+- ![Login](./mern-blog-master/photos/register.png)
 
 - **Home Page**: Display the latest blog posts from the UrbanExplorer community for users to explore and discover.
-
+- ![Login](./mern-blog-master/photos/homepage.png)
 - **Create Post**: Allow users to create and publish their own blog posts, complete with text, images, and other media.
-
+- ![Login](./mern-blog-master/photos/editPost.png)
 - **Edit Posts**: Enable users to edit their own posts to keep their content up to date or make improvements.
-
+- ![Login](./mern-blog-master/photos/post.png)
 ## Technologies Used
 
 UrbanExplorer is built using a variety of technologies and tools, including:
